@@ -1,0 +1,11 @@
+name: Reports
+main: me.jawdex.reports.Reports
+version: 1.0-ALPHA
+author: JAWDEX
+commands:
+  report:
+    aliases: [helpop, h]
+  suggestion:
+    aliases: [suggest, feedback]
+  bug:
+    aliases: [bugreport, reportbug]
